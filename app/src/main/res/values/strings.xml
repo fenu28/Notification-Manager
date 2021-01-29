@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Notification Manager</string>
+    <string name="title_hint">Notification Title</string>
+    <string name="notification_message_hint">Notification Message</string>
 </resources>
