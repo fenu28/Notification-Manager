@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="platform_name">
+        <item>Codeforces</item>
+        <item>Codechef</item>
+        <item>Hackerrank</item>
+        <item>Hackerearth</item>
+        <item>Spoj</item>
+        <item>AtCoder</item>
+        <item>LeetCode</item>
+        <item>Google Coding Competitions</item>
+    </string-array>
+</resources>
